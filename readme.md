@@ -32,3 +32,6 @@ yarn watch
 ```
 
 ## Todo
+
+1. BrowserSync
+2. ???? whatever you guys want
