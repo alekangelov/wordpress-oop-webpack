@@ -1,0 +1,17 @@
+{
+  "name": "alek/aleks-oop-wp",
+  "description": "Simple little wordpress starter template",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Alek Angelov",
+      "email": "alek@39strife.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "app\\Classes"
+    }
+  }
+}
